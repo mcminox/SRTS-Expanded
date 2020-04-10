@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Industrial -->
+
+  <ShuttleComp_Plates.label>SRTS: стальные пластины</ShuttleComp_Plates.label>
+  <ShuttleComp_Plates.description>Несколько укрепленных стальных пластин в разных размерах и формах, связанных особым гелем для легкой конструкции. Чувствительная проводка, трубки и электрические компоненты выравнивают внутреннюю поверхность этих пластин. Необходимо для сборки транспортных челноков малой дальности.</ShuttleComp_Plates.description>
+
+  <ShuttleComp_MechSystem.label>SRTS: механические зап.части</ShuttleComp_MechSystem.label>
+  <ShuttleComp_MechSystem.description>Различные шестерни, рычаги, печатные платы, шкивы, колеса и другие промышленные детали. Необходимо для сборки транспортных челноков малой дальности.</ShuttleComp_MechSystem.description>
+
+  <ShuttleComp_ElectricSystem.label>SRTS: электронные компоненты</ShuttleComp_ElectricSystem.label>
+  <ShuttleComp_ElectricSystem.description>Различные микросхемы, провода, датчики, печатные платы, разъемы, переключатели, кнопки и другие электрические компоненты. Необходимо для сборки транспортных челноков малой дальности.</ShuttleComp_ElectricSystem.description>
+
+  <ShuttleComp_Engines.label>SRTS: детали двигателя</ShuttleComp_Engines.label>
+  <ShuttleComp_Engines.description>Различные трубы, клапаны, реактивные накладки, репульсорные пластины, поворотные штифты и другие закаленные компоненты топлива и двигателя. Необходимо для сборки транспортных челноков малой дальности.</ShuttleComp_Engines.description>
+
+  <ShuttleComp_Structural.label>SRTS: внутренние элементы</ShuttleComp_Structural.label>
+  <ShuttleComp_Structural.description>Различные сиденья, приборные панели, внутренние стены, шторы, раковины, унитазы, столы и многие другие компоненты, необходимые пассажирам. Необходимо для сборки транспортных челноков малой дальности.</ShuttleComp_Structural.description>
+
+
+  <!-- Ultra -->
+
+  <ShuttleComp_MeshPlate.label>SRTS: нейронные панели</ShuttleComp_MeshPlate.label>
+  <ShuttleComp_MeshPlate.description>Несколько укрепленных стальных пластин в разных размерах и формах, связанных особым гелем для легкой конструкции. Высокотехнологичная нейронная сетчатая сеть сплетена через стальное покрытие. Необходимо для сборки сложных транспортных челноков малой дальности.</ShuttleComp_MeshPlate.description>
+
+
+  <!-- Archotech -->
+
+  <ShuttleComp_Reactor.label>SRTS: компоненты ядерного реактора</ShuttleComp_Reactor.label>
+  <ShuttleComp_Reactor.description>Высокотехнологичные и миниатюрные ядерные компоненты, используемые для преобразования урана в энергию в специализированном реакторе. Необходимо для сборки действительно сложных транспортных челноков малой дальности.</ShuttleComp_Reactor.description>
+
+  <ShuttleComp_DimShift.label>SRTS: детали управления карманным измерением</ShuttleComp_DimShift.label>
+  <ShuttleComp_DimShift.description>Высокотехнологичная система, которая подключается ко всему вашему кораблю в различных точках. Трубки, мигающие огоньки, провода и множество таинственных коробок и штуковин. Необходимо для сборки действительно сложных транспортных челноков малой дальности.</ShuttleComp_DimShift.description>
+
+
+</LanguageData>

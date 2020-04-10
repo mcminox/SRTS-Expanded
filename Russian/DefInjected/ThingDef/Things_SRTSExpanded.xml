@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Superpod -->
+
+  <SRTSSuperpod_Incoming.label>Экзо-капсула: посадка</SRTSSuperpod_Incoming.label>
+  <SRTSSuperpod_Leaving.label>Экзо-капсула: отбытие</SRTSSuperpod_Leaving.label>
+  <SRTSSuperpod_Active.label>Экзо-капсула: активна</SRTSSuperpod_Active.label>
+
+
+  <!-- Skip -->
+
+  <SRTSSkip_Incoming.label>SRTS Skip: посадка</SRTSSkip_Incoming.label>
+  <SRTSSkip_BomberRun.label>SRTS Skip: Бомбардировка</SRTSSkip_BomberRun.label>
+  <SRTSSkip_Leaving.label>SRTS Skip: отбытие</SRTSSkip_Leaving.label>
+  <SRTSSkip_Active.label>SRTS Skip: активен</SRTSSkip_Active.label>
+
+
+  <!-- SRAF -->
+
+  <SRAF_Incoming.label>SRTF: посадка</SRAF_Incoming.label>
+  <SRAF_Leaving.label>SRTF: отбытие</SRAF_Leaving.label>
+  <SRAF_Active.label>SRTF: активен</SRAF_Active.label>
+
+
+  <!-- TEK7 -->
+
+  <SRAFTek_Incoming.label>SRAFTek7: посадка</SRAFTek_Incoming.label>
+  <SRAFTek_Leaving.label>SRAFTek7: отбытие</SRAFTek_Leaving.label>
+  <SRAFTek_Active.label>SRAFTek7: активен</SRAFTek_Active.label>
+
+
+  <!-- SRTS MkII -->
+
+  <SRTSMkII_Incoming.label>SRTS Mk.II: посадка</SRTSMkII_Incoming.label>
+  <SRTSMkII_BomberRun.label>SRTS Mk.II: Бомбардировка</SRTSMkII_BomberRun.label>
+  <SRTSMkII_Leaving.label>SRTS Mk.II: отбытие</SRTSMkII_Leaving.label>
+  <SRTSMkII_Active.label>SRTS Mk.II: активен</SRTSMkII_Active.label>
+
+
+  <!-- SRTS MkIII -->
+
+  <SRTSMkIII_Incoming.label>SRTS Mk.III: посадка</SRTSMkIII_Incoming.label>
+  <SRTSMkIII_BomberRun.label>SRTS Mk.III: Бомбардировка</SRTSMkIII_BomberRun.label>
+  <SRTSMkIII_Leaving.label>SRTS Mk.III: отбытие</SRTSMkIII_Leaving.label>
+  <SRTSMkIII_Active.label>SRTS Mk.III: активен</SRTSMkIII_Active.label>
+
+
+  <!-- SRTS MkIIIp -->
+
+  <SRTSMkIIIp_Incoming.label>SRTS Mk.IIIp: посадка</SRTSMkIIIp_Incoming.label>
+  <SRTSMkIIIp_Leaving.label>SRTS Mk.IIIp: отбытие</SRTSMkIIIp_Leaving.label>
+  <SRTSMkIIIp_Active.label>SRTS Mk.IIIp: активен</SRTSMkIIIp_Active.label>
+
+
+  <!-- SRTS MkIV -->
+
+  <SRTSMkIV_Incoming.label>SRTS Mk.IV: посадка</SRTSMkIV_Incoming.label>
+  <SRTSMkIV_BomberRun.label>SRTS Mk.IV: Бомбардировка</SRTSMkIV_BomberRun.label>
+  <SRTSMkIV_Leaving.label>SRTS Mk.IV: отбытие</SRTSMkIV_Leaving.label>
+  <SRTSMkIV_Active.label>SRTS Mk.IV: активен</SRTSMkIV_Active.label>
+
+
+</LanguageData>
